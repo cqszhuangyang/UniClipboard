@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClipboardTools.iml" filepath="$PROJECT_DIR$/ClipboardTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClipboardTools/ClipboardTools-ClipboardTools.iml" filepath="$PROJECT_DIR$/ClipboardTools/ClipboardTools-ClipboardTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClipboardToolsNew/ClipboardToolsNew.iml" filepath="$PROJECT_DIR$/ClipboardToolsNew/ClipboardToolsNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool/tool.iml" filepath="$PROJECT_DIR$/tool/tool.iml" />
+    </modules>
+  </component>
+</project>
